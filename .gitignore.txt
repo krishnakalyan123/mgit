@@ -1,0 +1,3 @@
+csk is great team
+# ignore all the .txt files
+*.txt        
